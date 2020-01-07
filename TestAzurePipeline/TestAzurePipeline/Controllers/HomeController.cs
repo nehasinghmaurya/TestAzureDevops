@@ -11,7 +11,7 @@ namespace TestAzurePipeline.Controllers
         public ActionResult Index()
         {
             ViewBag.Title = "Home Page";
-            int variable = 2;
+            int variable = 20000;
             return View();
         }
     }
