@@ -10,7 +10,7 @@ namespace Azure_Integration
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Building all Solution in Azure");
+            Console.WriteLine("Solution in Azure");
         }
     }
 }
